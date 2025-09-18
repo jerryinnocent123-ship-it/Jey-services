@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)file:///C:/Users/Jerry/Desktop/Projet/Jey_Services%20essaie.HTML -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The best services</title>
+  
+</head>
+<body>
+    <style>
+body{background: url(h-Reo=peir.jpg);
+    background-size: cover;
+    color: white;
+    font-family: Arial, sans-serif;}
+
+    section.p{font-size: large;}
+
+BODY.P{font-size: large;}
+
+    header{background-color: rgb(51, 103, 216);
+    color: white;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    
+   
+  a{text-decoration: none;
+    color: white;
+  transition: background-color 0.3s, ease;}
+    }
+   footer a :hover{background-color: red;}
+
+    header h1{text-align: center;
+    margin-left: 15%;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+        margin-top: 1%;}
+
+
+    nav a{color: white;
+        margin: 10px;
+        text-decoration: none  ;
+        transition: color 0.3s, ease;
+        
+    }
+
+    nav a:hover{color: rgb(226, 23, 8);}
+
+img{width: 130px;
+    height: 130px;}
+
+
+    footer{background-color: rgb(51, 103, 216);
+    color: white;
+align-items: center;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    }
+
+
+    .footer-container {
+  display: flex;
+  justify-content:space-between;
+  align-items: center ;
+    color: white;
+  padding: 20px;
+}
+
+.footer-column {
+  flex: 1;
+  margin: 0 10px;
+}
+.footer-column p {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+.image-row {
+  display: flex;
+  justify-content: space-between; 
+  gap: 30px; 
+}
+
+.image-row img {
+  width: 30%; 
+  height: 500px; ;
+  border-radius: 8px; 
+}
+.image-row img:hover {
+  transform: scale(1.05);
+
+}
+
+footer a{color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;}
+    footer a:hover{color: red;}
+    
+   .footer-container{display: flex;            
+      justify-content: center;  
+      gap: 20px
+   }
+
+  .footer-column{flex: 1;        
+      text-align: center;        
+           padding: 20px;}
+    </style>
+
+
+    <header>
+        <img src="./index_files/jey_services-Logo.png" alt="jey_services-Logo">
+        <h1>Welcome To JEY_SERVICES</h1>
+        <nav><a href="file:///C:/Users/Jerry/Desktop/Projet/Jey_Services%20essaie.HTML">Home</a>
+            <a href="file:///C:/Users/Jerry/Desktop/Projet/Jey_Services%20essaie.HTML#About">About</a>
+            <a href="https://wa.me/50931121189" target="_blank">Contact</a>
+            <a href="file:///C:/Users/Jerry/Desktop/Projet/Jey_Services%20essaie.HTML#services">Services</a>
+       </nav>
+      </header>
+        <section id="About">
+            <h2>About Us</h2>
+          <p> At <strong>JEY_SERVICES</strong>, we specialize in repairing, selling, 
+    and installing software for electronic devices.  
+    Our mission is to provide fast, reliable, and affordable solutions 
+    to help you get the most out of your technology.  
+    With experience and dedication, we make sure every customer 
+    receives quality service and professional support.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <ul>
+                <li>Device Repair: We fix smartphones, tablets, laptops, and more.</li>
+                <li>Software Installation: We install and configure software applications.</li>
+                <li>Device Sales: We offer a selection of new and refurbished devices for sale.</li>
+                <li>Technical Support: We provide ongoing support and maintenance for your devices.</li>
+            </ul>
+        </section>
+
+        
+<div class="image-row">
+<img src="./index_files/tel.jpg" alt="Phone repair">
+<img src="./index_files/pc repair.jpg" alt="Pc repair">
+<img src="./index_files/h-Reo=peir.jpg" alt="H repair">
+
+</div>
+<p>we can Contact us for every problems with your devices</p>
+
+
+
+
+
+        <footer>
+            <div class="footer-container">
+   
+<div class="footer-colunm"><h4>About the creator  </h4>
+<p>My name is Jerry Innocent, a young experimenter in the field of computer science,
+   </p><p>Content creator.</p>
+    <p>Web developer.</p>
+    <p>Graphic designer.</p>
+    <p>And a student in computer science.</p>
+    <p><a href="https://coding.com/lander">Learn more</a></p>
+</div>
+             <div class="footer-colunm">
+<section id="Contact">
+    <h3>Contact Us</h3>
+        <p><a href="file:///C:/Users/Jerry/Desktop/Projet/Jey_Services%20essaie.HTML#contact">+509 3112-1189</a></p>
+        <p><a href="file:///C:/Users/Jerry/Desktop/Projet/Jerryinnocent123@gmail.com"> Jerryinnocent123@gmail.com</a></p>
+    <p>Address: Port-au-Prince, Haiti</p>
+</section></div>
+         <div class="footer-column">
+          <p>Site references </p>
+          <p><a href="https://www.w3schools.com/">W3Schools</a></p>
+          <p><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></p>
+          <p><a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a></p>
+          <p><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></p>
+        
+           <p>© 2024 JEY_SERVICES. All rights reserved.</p></div>
+
+            
+        </div></footer>
+
+
+</body></html>
